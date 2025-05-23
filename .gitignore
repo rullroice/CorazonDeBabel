@@ -1,0 +1,25 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# Unity packages
+Packages/com.unity.*
+Packages/manifest.json
+
+# IDEs
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.pidb
+
+# Autogenerados
+*.apk
+*.aab
+*.exe
